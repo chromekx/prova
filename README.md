@@ -11,11 +11,11 @@ Foram utilizadas as tecnologias:
 * JSON
 
 Para clonar o projeto, abra o Windows PowerShell e digite:
-git clone https://github.com/chromekx/prova.git
+* git clone https://github.com/chromekx/prova.git
 
 Para instalar as dependências, abra o terminal do VS Code ou Windows PowerShell e digite:
 * composer require slim/slim
-e
+- e
 * composer require slim/psr7
 
 Para executar o projeto, digite:
